@@ -5,3 +5,5 @@ for (let i = 0; i < 10; i++) {
     console.log(i);
 }
 
+// This application prints "Hello, World!" and the numbers 0 to 9.
+
